@@ -8,6 +8,21 @@ JobSite is a job listing website built with Laravel 12, Tailwind CSS, AplineJs a
 ![index page](img/home1.png)
 ![index page](img/home2.png)
 
+## Features
+
+-   Job Listing CRUD
+-   Authentication & Authorization Policies
+-   Profile Avatar Upload
+-   Blade UI Components
+-   Tailwind Integration
+-   Bookmarking System
+-   Apply & Upload Resume
+-   User Dashboard
+-   Alpine.js For Interactivity
+-   Database Seeder
+-   Job Search
+-   Job Listing Pagination
+
 ## Login Page
 ![task](img/login.png)
 
