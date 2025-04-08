@@ -1,6 +1,6 @@
 # JobSite (Laravel)
 
-JobSite is a job listing website built with Laravel 12, Tailwind CSS, AplineJs and PostreSQL as the database.
+JobSite is a job listing website built with Laravel 12, Tailwind CSS, AplineJs and PostgreSQL as the database.
 
 <!-- <img src=".\img\home1.png" alt="" /> -->
 
